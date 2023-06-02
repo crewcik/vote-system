@@ -1,5 +1,7 @@
 # oy sistemi
 
+# Asla taraf tutmuyorum. Lütfen yanlış anlamayın tamamen eğlence, merak için yaptım ;)
+
 sandik = 0
 
 while True:
